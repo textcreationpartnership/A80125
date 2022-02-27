@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collections of notes taken at the Kings tryall, at VVestminster Hall, on Saturday last, Janua. 20. 1648. And the charge of high treason read against the King. VVith the several speeches made by the King, the Lord president, and the councell which exhibited the charge against him. Which notes were taken by H. Walker, who was present at the tryall that day. January 20. 1648. Imprimatur Theodore Jennings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80125</idno>
+            <idno type="STC">Wing C5217</idno>
+            <idno type="STC">Thomason E538_27</idno>
+            <idno type="STC">ESTC R206055</idno>
+            <idno type="EEBO-CITATION">99865246</idno>
+            <idno type="PROQUEST">99865246</idno>
+            <idno type="VID">164883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164883)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Collections of notes taken at the Kings tryall, at VVestminster Hall, on Saturday last, Janua. 20. 1648. And the charge of high treason read against the King. VVith the several speeches made by the King, the Lord president, and the councell which exhibited the charge against him. Which notes were taken by H. Walker, who was present at the tryall that day. January 20. 1648. Imprimatur Theodore Jennings.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, in Smithfield, neer the Queens-head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164883:1" rendition="simple:additions"/>
+            <p> Collections of Notes Taken at the KINGS Tryall, at VVeſtminſter Hall, On Sa<g ref="char:EOLhyphen"/>turday laſt, <hi>Janua.</hi> 20. 1648.</p>
+            <p>AND THE Charge of High-treaſon Read againſt the <hi>KING.</hi>
+            </p>
+            <p>VVith the ſeverall Speeches made by the King, the Lord Preſident, and the Councell which exhibited the Charge againſt Him.</p>
+            <p>Which Notes were taken by <hi>H. WALKER,</hi> who was preſent at the Tryall that day.</p>
+            <p>
+               <hi>January</hi> 20. 1648.</p>
+            <p>Imprimatur THEODORE JENNINGS.</p>
+            <p>LONDON Printed by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+            <pb facs="tcp:164883:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:164883:2"/>
+            <head>Collections of Notes, Taken at the Kings Tryal at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter Hall,</hi> On Saturday laſt, <hi>January</hi> 20. 1648.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ollonel <hi>Fox</hi> led twenty Gentlemen with half pikes that were brought fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower, from the painted Chamber, to the place prepared for the High Court of Juſtice in <hi>Weſtminſter-hall,</hi> and then the Uſhers, Meſſengers, and Cryer of the Court went all bare.</p>
+            <p>After them, Collonel <hi>Humphreys</hi> with the ſword, and Serjeant <hi>Dendy</hi> with the Mace, came before the Lord Preſident; and after him, all the Members of the Court th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t were then preſent, who took their places upon the Benches. And Proclamation was made, and <hi>Weſtminſter hall</hi> gate ſet open.</p>
+            <q>
+               <p>
+                  <hi>Ho yes, ho yes, ho yes: All manner of perſons that have any thing to doe in this Court, come in and give your attendance.</hi>
+               </p>
+               <p>
+                  <hi>Ho yes,</hi> Every man keep ſilence upon pain of impriſonment, and hear the Commiſſion
+<pb n="2" facs="tcp:164883:3"/> of this Court read, which is authorized by an Act of the Commons of <hi>England</hi> in Parlia<g ref="char:EOLhyphen"/>ment aſſembled.</p>
+            </q>
+            <p>The Commiſſion was then read, and 68. which were the Commiſſioners of the Court then preſent, anſwere<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to their names.</p>
+            <p>After the Commiſsion was read, Serjeant <hi>Dendy</hi> was ſent with the Mace, with ten of the Gentlemen, with the halfe pikes to fetch the King into the Court, and immediately they returned uſhering the King (his atten<g ref="char:EOLhyphen"/>dance with him to the Court) to the place, where a chaire, and a little Table was ſet for the King, at the Barre, before the Court.</p>
+            <p>Then the Lord Preſident made a Speech to the King, under the name of <hi>Charles Stuart</hi> King of <hi>England,</hi> letting him know that the Commons of <hi>England</hi> in Parliament aſſem<g ref="char:EOLhyphen"/>bled are ſenſible of the many Subjects that have been ſlain; and that they are reſolved to make inquiſition for this blood, other means having failed, they have erected this Court,</p>
+            <p>Then the Counſell exhibited the Charge againſt the King, who as he was offering it to the Court, the King lapped on the ſhoulder with a wand which he had in his hand, bidding him to ſtay, but the Coun<g ref="char:EOLhyphen"/>ſell proceeded. And declared thus to the Court, that
+<pb n="3" facs="tcp:164883:3"/> he did in the name of the Parliament and Commons of <hi>England,</hi> exhibit a charge of High Treaſon, and o<g ref="char:EOLhyphen"/>ther High crimes and miſdemeanors againſt <hi>Charles Stuart</hi> King of <hi>England,</hi> then preſent before the Court</p>
+            <p>The King again lapped him with his ſtick, and bad him hold.</p>
+            <p>The Lord Preſident of the Court then ſpake thus:</p>
+            <q>Sir, <hi>This Court commands the Char<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e againſt you to be read, and then you may be heard what you have to ſay.</hi>
+            </q>
+            <p>Then the Charge was read, all being bare, but only the Commiſſioners of the Court, and the King, who ſate in his chaire at the barre.</p>
+            <p>The charge, conſiſted cheife on the late war, and many thouſands that have beene ſlain by Trayterous leavying war againſt the Parliament, and was preſent at the ſeverall fights at Yorke, Nottingham, Edge-hill, in Kenton-field, Branford, Oxford ſhire, Glo<g ref="char:EOLhyphen"/>ceſter, Newbery, Leceiſter, Nazeby, and other places, where he cauſed thouſands of his good Subjects to be ſlain, and forreigne forces to come over, and gave Commiſſions under his hand and ſeale to murder his good Subjects. And ſince again cauſed war in Kent, Surrey, Eſſex and other places, cauſed enemies to come in by ſea, fire, and civill hoſtility againſt his people, whereby much innocent blood hath been ſpilt, houſes burnt, places waſted, &amp;
+<pb n="4" facs="tcp:164883:4"/> Commiſſions granted to Act with the Iriſh Rebels, whereby the ſaid <hi>Charles Stuart</hi> hath been the occaſion, authour, and continuer of this civill war, by which much blood hath been ſpilt, And rapine and out-rages on his good Subjects committed. And that they do proceed againſt ſuch a Tyrant, Traitor, and Murtherer, as ſhall be agreeable to juſtice.</p>
+            <p>Theſe are ſome heads of the Charge then read by the Clerke againſt him.</p>
+            <p>Then the Lord Preſident ſitting in his chaire ſpake, declaring to the King, That now hee had heard the Charge read againſt him, the Court expected his anſwer.</p>
+            <p>The King then ſtood up and ſpak, deny<g ref="char:EOLhyphen"/>ing the authority of the Court. And affirm<g ref="char:EOLhyphen"/>ing that he was to give Anſwer to no power, but the ſupream power above. And ſeverall other things in this nature was ſpoken by the King, to all which the Lord Preſident made, full and excellent anſwers. And ſtill anſwers and replyes were made on each ſide.</p>
+            <p>The ſum of the Speeches were thus, 1. The King required to know by what Authority they lat there to try him? Anſwer was made by authority of the Parliament of England,
+<pb n="5" facs="tcp:164883:4"/> And that if he had marked what was read he might have underſtood that before. Then the king ſaid, they had not a lawful authority, and that he ſaw none of his Lords there. The Lord Preſident told him that they ſate by the authority of the Commons of England in Parliament aſſembled who had choſen him to be their King, and to whom he muſt give an account. The King denied that hee was choſen by the people, But that hee had it by inheritance, and ſaid that it hath been heridi<g ref="char:EOLhyphen"/>tary above a thouſand yeares. And the King ſaid that if they did not ſhow a more lawfull authority for their ſitting there, he would not give them any anſwer. The Lord Preſident told the King, That hee had beene told ſe<g ref="char:EOLhyphen"/>verall times, that their ſitting is by authori<g ref="char:EOLhyphen"/>ty of Parliament, And that if he will not give them an anſwer, the Court knows how to proceed againſt him. The King ſaid that if hee did know that they were warranted by the word of God, the Scriptures, that hee would deliver his Anſwer, but elſe hee will give no Anſwer. The Lord Preſident told him that if he would give no further anſwer, the Court knew how to pro<g ref="char:EOLhyphen"/>ceed legally againſt him. And in the mean time thoſe that brought him thither, ſhould take charge of him
+<pb n="6" facs="tcp:164883:5"/> backe againe. Then the King pleaced an appeale to the God of Heaven, and that hee was intruſted with the Government of the Kingdom, and pleaded the li<g ref="char:EOLhyphen"/>berties of the people, ſaying, that it is as great a ſin to lay down that power wherewith hee was intruſted, as to commit a crime, ſaying, that if he knew the autho<g ref="char:EOLhyphen"/>rity of the Court to be lawfull, he would give his an<g ref="char:EOLhyphen"/>ſwer.</p>
+            <p>Then the Souldiers and the people cryed out <hi>Juſtice, Juſtice, Juſtice.</hi> The King turned about thereat, and looked towards them, but ſaid nothing to them.</p>
+            <p>The Lord Preſid<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt having fully declared the pow<g ref="char:EOLhyphen"/>er of the Court, advertiſed the King, how well ſatis<g ref="char:EOLhyphen"/>fied they are of their authority, and the lawfullneſſe thereof, and bad him to conſider further of it againſt Munday next. For if hee will give no anſwer, they muſt proceed legally againſt him. The King then made a ſhort ſpeech, but ſtill not owning the power of the Court. After which the Lord Preſident told the King that the Court had heard him what he had ſaid. And then the King was carried backe to Sir <hi>Tho. Cottons.</hi> After which Proclamation was made</p>
+            <q>
+               <hi>Ho yes, Ho yes, Ho yes, All manner of perſons that have any thing more to do at this Court, ye are to depart at this time, And this Court doth adjourn it ſelfe untill Munday morning next, at</hi> 9 <hi>of the clocke to meet in the Painted Chamber, and from thence hither again.</hi>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
